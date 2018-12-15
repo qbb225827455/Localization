@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Kelvin Tan on 12/15/18.
+  Copyright © 2018 Kelvin Tan. All rights reserved.
+*/
+
+"hello_world" = "안녕하세요 세계";
